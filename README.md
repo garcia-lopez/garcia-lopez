@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garcia-lopez&theme=dracula" alt="garcia-lopez" /></p>
 
-![Snake animation](https://github.com/garcia-lopez)
+![Snake animation](https://github.com/garcia-lopez/garcia-lopez/blob/output/github-contribution-grid-snake.svg)
