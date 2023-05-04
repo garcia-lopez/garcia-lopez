@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/linear-vintage-vaporwave-background_23-2148898890.jpg?w=2000)](https://garcia-lopez.io)
+[![MasterHead](https://wallpapercave.com/wp/wp11488638.jpg)](https://garcia-lopez.io)
 <h1 align="center">Hola! Hello!, I'm Paula López</h1>
 <h3 align="center">A second year software engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
