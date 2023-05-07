@@ -26,7 +26,7 @@ $~$
 
 
 <p align="center">
-  <img width="900" height="500" src="https://i1.wp.com/hoshiru.net/wp-content/uploads/2016/02/008a02e89562569705c2b30d465e1ba1.gif?fit=500%2C220">
+  <img width="900" height="500" src="https://media.tenor.com/W8ajHdMwbdUAAAAC/retro-anime-sleep.gif">
 </p>
 
 $~$
