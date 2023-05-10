@@ -39,9 +39,9 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=garcia-lopez&show_icons=true&theme=jolly" alt="garcia-lopez" /></p>
 
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=garcia-lopez&show_icons=true&theme=jolly" alt="garcia-lopez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=garcia-lopez&theme=jolly" alt="garcia-lopez" /></p>
 
