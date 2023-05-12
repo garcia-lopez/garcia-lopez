@@ -5,7 +5,7 @@
 ## 
 
 <div align="center"> <img align="center" alt="Coding" width="400" src="https://64.media.tumblr.com/e02a94eb3ed476b9088dae2247218b35/tumblr_pof1ooiEIG1x6a7yto1_500.gif"> </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=garcia-lopez&label=Profile%20views&color=0e75b6&style=flat" alt="garcia-lopez" /> </p>
+
 
 <div align="center"></div>
 
@@ -35,3 +35,5 @@
 
 ## <div align="center"> 🐍 Contribution snake 🐍</div>
 ![Snake animation](https://github.com/garcia-lopez/garcia-lopez/blob/output/github-contribution-grid-snake.svg)
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=garcia-lopez&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="garcia-lopez" /> </p>
