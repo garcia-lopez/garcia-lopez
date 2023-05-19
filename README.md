@@ -1,6 +1,14 @@
 [![MasterHead](https://openseauserdata.com/files/19b28c8372aaec65623f7ee7332e74be.gif)](https://garcia-lopez.io)
 ## <div align="center"> Hello It's Pau /ᐠ. .ᐟ\ฅ </div>
 #### <div align="center"> 💜 Information Systems Engineering student 💜 </div>  
+{  
+
+*  `String Name` = **¨Pau¨**,
+*  `String Pronouns`: **"She/Her"**,
+*  `String Birthday`: **"07/06/05"**,
+*  `String Likes`: **"Bread and tea"**
+
+}
 
 ## 
 
