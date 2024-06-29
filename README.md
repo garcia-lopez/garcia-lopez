@@ -1,6 +1,7 @@
 [![MasterHead](https://openseauserdata.com/files/19b28c8372aaec65623f7ee7332e74be.gif)](https://garcia-lopez.io)
 ## <div align="center"> Hello It's Pau /ᐠ. .ᐟ\ฅ </div>
 #### <div align="center"> 💜 Information Systems Engineering student 💜 </div>  
+#### <div align="center"> I have been using way too much python t-t </div> 
 {  
 
 *  `String Name` = **¨Pau¨**,
