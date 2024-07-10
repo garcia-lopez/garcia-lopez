@@ -2,12 +2,13 @@
 ## <div align="center"> Hello It's Pau /ᐠ. .ᐟ\ฅ </div>
 #### <div align="center"> 💜 Information Systems Engineering student 💜 </div>  
 #### <div align="center"> I have been using way too much python t-t </div> 
+#### <div align="center"> At this point, I do not know what I am doing. </div> 
 {  
 
 *  `String Name` = **¨Pau¨**,
 *  `String Pronouns`: **"She/Her"**,
 *  `String Birthday`: **"07/06/05"**,
-*  `String Likes`: **"Bread and tea"**
+*  `String Likes`: **"Peace"**
 
 }
 
