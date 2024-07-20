@@ -3,6 +3,8 @@
 #### <div align="center"> 💜 Information Systems Engineering student 💜 </div>  
 #### <div align="center"> I have been using way too much python t-t </div> 
 #### <div align="center"> At this point, I do not know what I am doing. </div> 
+#### <div align="center"> Yes, I write messy code :( . </div> 
+
 {  
 
 *  `String Name` = **¨Pau¨**,
