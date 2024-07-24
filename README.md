@@ -5,9 +5,9 @@
 #### <div align="center"> At this point, I do not know what I am doing. </div> 
 #### <div align="center"> Yes, I write messy code :( . </div> 
 
-{  
+const Pau = {  
 
-*  `String Name` = **¨Pau¨**,
+*  `String Name` : **¨Pau¨**,
 *  `String Pronouns`: **"She/Her"**,
 *  `String Birthday`: **"07/06/05"**
   
