@@ -9,7 +9,8 @@
 
 *  `String Name` = **¨Pau¨**,
 *  `String Pronouns`: **"She/Her"**,
-*  `String Birthday`: **"07/06/05"**,
+*  `String Birthday`: **"07/06/05"**
+  
 }
 
 ## 
