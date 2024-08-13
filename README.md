@@ -1,9 +1,5 @@
-[![MasterHead](https://openseauserdata.com/files/19b28c8372aaec65623f7ee7332e74be.gif)](https://garcia-lopez.io)
-## <div align="center"> Hello It's Pau /ᐠ. .ᐟ\ฅ </div>
-#### <div align="center"> 💜 Information Systems Engineering student 💜 </div>  
-#### <div align="center"> I have been using way too much python t-t </div> 
-#### <div align="center"> At this point, I do not know what I am doing. </div> 
-#### <div align="center"> Yes, I write messy code :( . </div> 
+## <div align="center"> Hello It's Pau </div>
+#### <div align="center"> </div>  
 
 const Pau = {  
 
