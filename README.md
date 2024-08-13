@@ -26,4 +26,4 @@ const Pau = {
 ## <div align="center"> 𓆗 Contribution snake 𓆗</div>
 ![Snake animation](https://github.com/garcia-lopez/garcia-lopez/blob/output/github-contribution-grid-snake.svg)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=garcia-lopez&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="garcia-lopez" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=garcia-lopez&label=Profile%20views&color=blue&style=for-the-badge" alt="garcia-lopez" /> </p>
