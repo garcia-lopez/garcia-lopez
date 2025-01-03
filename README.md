@@ -25,7 +25,7 @@ const Pau = {
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=garcia-lopez&show_icons=true&theme=catppuccin_mocha&locale=en" alt="garcia-lopez"  style="width: 50%"/>
 </p>
 
-## <div align="center"> 𓆗 Contribution snake 𓆗</div>
+## <div align="center"> 𓆗 Contribution Snake 𓆗</div>
 ![Snake animation](https://github.com/garcia-lopez/garcia-lopez/blob/output/github-contribution-grid-snake.svg)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=garcia-lopez&label=Profile%20views&color=blue&style=for-the-badge" alt="garcia-lopez" /> </p>
